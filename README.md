@@ -11,7 +11,7 @@ Wiki 源码：<https://github.com/lucklyduck/nailongBotWiki>
 | --- | --- | --- | --- |
 | Task01 | 环境准备、组装、舵机归中、整机自检 | ✅ 已打卡 | [task01](task01.md) |
 | Task02 | 烧录固件，让屏幕亮起来 | ✅ 已打卡 | [task02](task02.md) |
-| Task03 | 配网、绑定设备、舵机校准 | 🟡 笔记就绪 | [task03](task03.md) |
+| Task03 | 配网、绑定设备、舵机校准 | ✅ 已打卡 | [task03](task03.md) |
 | Task04 | 配置人设，让它有性格 | ⬜ | — |
 | Task05 | 二次开发：加动作 / 表情 / 声音 | ⬜ | — |
 
