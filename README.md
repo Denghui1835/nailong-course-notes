@@ -13,7 +13,7 @@ Wiki 源码：<https://github.com/lucklyduck/nailongBotWiki>
 | Task02 | 烧录固件，让屏幕亮起来 | ✅ 已打卡 | [task02](task02.md) |
 | Task03 | 配网、绑定设备、舵机校准 | ✅ 已打卡 | [task03](task03.md) |
 | Task04 | 配置人设，让它有性格 | ✅ 已打卡 | [task04](task04.md) |
-| Task05 | 二次开发：加动作 / 表情 / 声音 | ⬜ | — |
+| Task05 | 二次开发：加动作 / 表情 / 声音 | 🟡 笔记就绪 | [task05](task05.md) |
 
 ## 硬件
 
